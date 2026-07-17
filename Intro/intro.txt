@@ -1,0 +1,73 @@
+Data Structures:
+    Is about how data can be stored in different structures.
+
+Algorithms:
+    Is about how to solve different problems, often by searching through and manipulating
+    data structures.
+
+Data Structures and Algorithms:
+    A theory that helps us to use large amounts of data to solve problems efficiently.
+
+In other words:
+    Basically, data structures are the logic for storing data, and algorithms manipulate
+    these stored data to solve problems.
+
+=====
+
+What are Data Structures?
+    A way to store data, to put it simply.
+
+    Since there are very different data structures, there are very different logic 
+    for storing data. They all behave in a different way although they have the same
+    purpose: to allow the storage and manipulation of data within a computer.
+
+    As it is basically implied, there are more and less efficient data structures depending
+    on the problem at hand. Because there are so many options, you can use the one that 
+    fits your problem the best.
+
+    Data Structure play an essential part in program performance. The use of a wrong 
+    data structure for the problem at hand, may result in huge bottlenecks within not 
+    only production but usage.
+
+=====
+
+Primitive and Abstract Data Structures:
+    In computer science there are two types of data structures: primitive and abstract ones.
+
+    Primitives are structure provided by programming languages to represent single values, 
+    such as integers, floating-point numbers, characters and so on.
+
+    Abstract are higher-level data structures that are built using primitive data types 
+    and provide more complex and specialized operations. Some examples of abstract data types are 
+    arrays, linked lists, stacks, queues, and so on.
+
+    IOW: You have built-in structures within programming languages and abstract concepts, that are 
+    usually more complex in nature.
+
+=====
+
+What are Algorithms?
+    Simply put, an algorithm is a set of step-by-step instructions to solve a given problem or
+    achieve a certain goal. A famous example of an algorithm is a cooking recipe, where the goal is
+    to make a certain dinner, and a series of steps(instructions) should be followed to achieve just that.
+    
+    Obviously, when dealing in computer science, algorithms are written with a programming language
+    and instead of food ingredients an algorithm uses data structures to come up with dinner.
+
+    Just as data structures are essential for computer science, so are algorithms. A good use of an 
+    algorithm in a program is the difference between a program that is able to execute what it has to
+    and a program that freezes every second and make the user close it. By studying algorithms, computer
+    scientists are able to write better programs.
+
+=====
+
+Data Structures together with Algorithms:
+    As maybe it is obvious from definitions, data structures and algorithms go hand in hand, just as food
+    and recipes. A data structure is not worth much if you cannot search through it or manipulate it efficiently
+    using algorithms, and the algorithms are not worth much without a data structure to work on.
+
+    DSA is about fiding efficient ways to store and retrieve data, to perform operations on data, and to solve
+    specific problems.
+
+    Data Structures and algorithms are virtually in every single software out there. They are the bread and butter
+    of computer science.
